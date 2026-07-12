@@ -1,6 +1,10 @@
 Part 1 — Data Acquisition, Cleaning, and Exploratory Analysis 
 =================================================================
 
+Steps to run file:
+===================
+Download data_cleaning_and_eda.ipynb, raw_data.csv and cleaned_data.csv from part 1 folder of repo. Open the data_cleaning_and_eda.ipynb in google collab. Add the raw_data.csv and cleaned_data.csv in the files of collab and run it step by step.
+
 Dataset Description:
 ======================
 This project focuses on identifying the underlying drivers of customer churning using the IBM Telco Customer Churn dataset by evaluating comprehensive customer profiles.
