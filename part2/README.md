@@ -2,7 +2,7 @@ Part 2 — Supervised Machine Learning Model — Build, Train, and Evaluate
 =========================================================================
 
 ## steps to run
-Download model_training.ipynb and cleaned_data.csv from part 1 folder of repo. Open the model_training.ipynb in google collab. Add the cleaned_data.csv in the files of collab and run it step by step.
+Download model_training.ipynb and cleaned_data.csv from part 2 folder of repo. Open the model_training.ipynb in google collab. Add the cleaned_data.csv in the files of collab and run it step by step.
 
 ## 1. Label Definitions
 Regression Label (y_reg) is MonthlyCharges which represents the monthly amount charged to the customer in USD. This is useful for predicting revenue and customer account value. Classification Label (y_clf) is Churn which represents whether the customer left the company within the last month.

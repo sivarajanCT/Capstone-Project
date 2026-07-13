@@ -2,7 +2,7 @@ Part 3 — Advanced Modeling — Ensembles, Tuning, and Full ML Pipeline
 =====================================================================
 
 ## Steps to run:
-Download advanced_models.ipynb and cleaned_data.csv from part 1 folder of repo. Open the advanced_models.ipynb in google collab. Add the cleaned_data.csv in the files of collab and run it step by step.
+Download advanced_models.ipynb and cleaned_data.csv from part 3 folder of repo. Open the advanced_models.ipynb in google collab. Add the cleaned_data.csv in the files of collab and run it step by step.
 
 ## 1. Decision Tree baseline
 Unconstrained Decision Tree: Training Accuracy is 99.86% and Test Accuracy is 72.25%. Decision tree exhibits severe overfitting. It achieves nearly 100% accuracy on the training set but drops drastically to 72.25% on the test set.Decision trees are described as high-variance models because they grow recursively by greedily splitting nodes based on the feature that maximizes information gain or Gini impurity reduction at that specific point. A single deep tree fits the training data noise, making the final structure highly sensitive to small variations in the training sample.
